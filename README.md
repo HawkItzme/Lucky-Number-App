@@ -1,6 +1,6 @@
 # Lucky-Number-App
 An android app to understand Intents(Explicit and Implicit intents).
-##INTENTS
+## INTENTS
 Intents in Android is a messaging object you can use to request an action from another app component. 
 Although intents, facilitate communication between components in several ways, there are three fundamental
 use cases for intents, starting an activity, starting a service or delivering a broadcast.
